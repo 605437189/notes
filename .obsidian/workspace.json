@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "b9d57abff1b507df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7ec49a9b5b017e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a8823eddd563a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/学术的进展-培根.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "学术的进展-培根"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98a87f1f9bb9acc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "720988d5f220cca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "468d0e510c0a6824",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "722150084c0ac3d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1e0e47e193049387",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2a911a7576d7d74",
+    "type": "split",
+    "children": [
+      {
+        "id": "36dc457042758cdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a2cd0a1ce1ad368",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/学术的进展-培根.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "学术的进展-培根 的反向链接列表"
+            }
+          },
+          {
+            "id": "0a91e636b2b01a1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "书籍类/罗素-哲学问题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "罗素-哲学问题 的出链列表"
+            }
+          },
+          {
+            "id": "d24f84a9e5b18fc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5e7fd89f836a2b90",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ec31ae6eae407f8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "书籍类/罗素-哲学问题.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "罗素-哲学问题 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "468d0e510c0a6824",
+  "lastOpenFiles": [
+    "README.md",
+    "notes",
+    "未命名.base",
+    "books/学术的进展-培根.md",
+    "books/反脆弱-纳西姆·尼古拉斯·塔勒布.md",
+    "书籍类/未命名.canvas",
+    "2026-03-15.md",
+    "books/罗素-哲学问题.md",
+    "创建链接.md",
+    "books",
+    "2026-03-14.md",
+    "未命名.canvas",
+    "欢迎.md"
+  ]
+}
