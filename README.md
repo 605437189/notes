@@ -1,2 +1,2 @@
-# notes
-personal notes
+# about notes
+this is a personal notes repositpory
